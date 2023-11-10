@@ -13,3 +13,7 @@ Prometheus DevOps та Kubernetes
 - `git add .`
 - `git commit -m 'init'` 
 - `git push`
+- `git checkout -b "development"`
+- `git add .`
+- `git commit -m "development branch"`
+- `git push --set-upstream origin development`
